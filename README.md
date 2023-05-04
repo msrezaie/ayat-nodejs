@@ -1,6 +1,6 @@
 # AYAT Hijab Fashion Clothing Website
 
-This is a rebuilt of [Clothing-Fashion-Website](https://github.com/msrezaie/Clothing-Fashion-Website) from ground up using modern web development technologies such as Node.js, Express, MongoDB, Bootstrap, and other libraries and frameworks.
+This is a rebuilt of my [Clothing-Fashion-Website](https://github.com/msrezaie/Clothing-Fashion-Website) from ground up using modern web development technologies such as Node.js, Express, MongoDB, Bootstrap, and other libraries and frameworks.
 
 ## Access
 
