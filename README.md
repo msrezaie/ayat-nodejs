@@ -6,9 +6,6 @@ This is a rebuilt of [Clothing-Fashion-Website](https://github.com/msrezaie/Clot
 
 The new version of the website is not yet published, but will be made available at a later time.
 
-### Link:
-https://msrezaie.github.io/Clothing-Fashion-Website/
-
 ## Features
 
 - Clean and modern design
