@@ -407,22 +407,22 @@ body {
 }
 
 .slide:first-child{
-  background: url('img/sl (1).jpg') no-repeat center center/cover;
+  background: url('../img/sl (1).jpg') no-repeat center center/cover;
 }
 .slide:nth-child(2){
-  background: url('img/sl (2).jpg') no-repeat center center/cover;
+  background: url('../img/sl (2).jpg') no-repeat center center/cover;
 }
 .slide:nth-child(3){
-  background: url('img/sl (3).jpg') no-repeat center center/cover;
+  background: url('../img/sl (3).jpg') no-repeat center center/cover;
 }
 .slide:nth-child(4){
-  background: url('img/sl (4).jpg') no-repeat center center/cover;
+  background: url('../img/sl (4).jpg') no-repeat center center/cover;
 }
 .slide:nth-child(5){
-  background: url('img/sl (5).jpg') no-repeat center center/cover;
+  background: url('../img/sl (5).jpg') no-repeat center center/cover;
 }
 .slide:nth-child(6){
-  background: url('img/sl (6).jpg') no-repeat center center/cover;
+  background: url('../img/sl (6).jpg') no-repeat center center/cover;
 }
 /* endslider */
 
