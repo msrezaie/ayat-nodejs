@@ -1,6 +1,18 @@
 # AYAT Hijab Fashion Clothing Website
 
-<img src="https://media.giphy.com/media/TiUjJ2tq2Oy8TxDsDl/giphy.gif" />
+## Preview
+
+### Landing Page:
+
+<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/blob/main/img/ayat-landing.jpg"/>
+
+### Designs Page:
+
+<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/blob/main/img/ayat-designs.jpg"/>
+
+### About Page:
+
+<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/blob/main/img/ayat-about.jpg"/>
 
 This is a rebuilt version of my [AYAT Clothing-Fashion-Website](https://github.com/msrezaie/Clothing-Fashion-Website) from the ground up, utilizing modern web development technologies such as Node.js, Express, and Bootstrap.
 
