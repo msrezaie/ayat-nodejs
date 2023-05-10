@@ -1,6 +1,6 @@
 # AYAT Hijab Fashion Clothing Website
 
-<img src="https://media.giphy.com/media/TiUjJ2tq2Oy8TxDsDl/giphy.gif" width="720" />
+<img src="https://media.giphy.com/media/TiUjJ2tq2Oy8TxDsDl/giphy.gif" width="500" />
 
 This is a rebuilt version of my [AYAT Clothing-Fashion-Website](https://github.com/msrezaie/Clothing-Fashion-Website) from the ground up, utilizing modern web development technologies such as Node.js, Express, and Bootstrap.
 
