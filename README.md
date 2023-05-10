@@ -1,10 +1,36 @@
 # AYAT Hijab Fashion Clothing Website
 
-This is a rebuilt of my [Clothing-Fashion-Website](https://github.com/msrezaie/Clothing-Fashion-Website) from ground up using modern web development technologies such as Node.js, Express, MongoDB, Bootstrap, and other libraries and frameworks.
+<img src="https://giphy.com/gifs/TiUjJ2tq2Oy8TxDsDl" width="720"/>
+
+This is a rebuilt version of my [AYAT Clothing-Fashion-Website](https://github.com/msrezaie/Clothing-Fashion-Website) from the ground up, utilizing modern web development technologies such as Node.js, Express, and Bootstrap.
 
 ## Access
 
-The new version of the website is not yet published, but will be made available at a later time.
+The new version of the website is not yet deployed, but you can run it locally on your machine by following these steps:
+
+1. Clone the repository from GitHub:
+
+```
+git clone https://github.com/msrezaie/ayat-nodejs.git
+```
+
+2. Navigate to the project directory:
+
+```
+cd ayat-nodejs
+```
+
+3. Install the dependencies using npm:
+
+```
+npm install
+```
+
+4. Start the application:
+
+```
+npm start
+```
 
 ## Features
 
@@ -12,7 +38,3 @@ The new version of the website is not yet published, but will be made available 
 - Responsive layout for most screen sizes
 - Built with modern web development technologies such as Node.js, Express, MongoDB, Bootstrap
 - Features product catalog, a blog page featuring news related to the business, and a contact form
-
-## Preview
-
-A preview of the new version of the website is not yet available, but it will feature a clean and modern design with a responsive layout for most screen sizes. It will include a product catalog, a blog page featuring news related to the business, and a contact form.
